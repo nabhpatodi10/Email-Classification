@@ -33,20 +33,20 @@ Ensure you have the following installed:
    ```
 
 3. **Install Dependencies**
-  Ensure the following Python libraries are installed:
+   Ensure the following Python libraries are installed:
   
-  ```
-  fastapi
-  uvicorn
-  pandas
-  joblib
-  scikit-learn
-  ```
-  
-  Install them using:
-   ```sh
-   pip install scikit-learn pandas fastapi uvicorn
    ```
+   fastapi
+   uvicorn
+   pandas
+   joblib
+   scikit-learn
+   ```
+  
+   Install them using:
+    ```sh
+    pip install scikit-learn pandas fastapi uvicorn
+    ```
 
 5. **Ensure the Trained Models Exist**
    The API expects the following trained models and vectorizer to be present in the root directory:
