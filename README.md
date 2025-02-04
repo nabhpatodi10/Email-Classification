@@ -124,7 +124,6 @@ print(response.text)
 │── LogisticRegression    # Saved Logistic Regression model
 │── MultinomialNB         # Saved Multinomial Naïve Bayes model
 │── RandomForest         # Saved Random Forest model
-│── requirements.txt      # Python dependencies
 │── README.md             # Project documentation (this file)
 ```
 
